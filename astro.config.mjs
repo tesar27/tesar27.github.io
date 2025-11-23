@@ -6,6 +6,6 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://skif.github.io",
+  site: "https://tesar27.github.io",
   integrations: [mdx(), sitemap()],
 });
